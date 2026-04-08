@@ -1,6 +1,6 @@
 title: PumpUp
 description: The platform where business stakeholders vibe-code enterprise tools
-baseurl: ""
+baseurl: "test-jek"
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
