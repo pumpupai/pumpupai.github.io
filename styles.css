@@ -1,116 +1,17 @@
-* { margin: 0; padding: 0; box-sizing: border-box; }
-
 body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: 'Inter', -apple-system, sans-serif;
+  max-width: 660px;
+  margin: 0 auto;
+  padding: 5rem 2rem;
   color: #333;
   background: #fafafa;
   line-height: 1.8;
   font-size: 18px;
-  padding: 5rem 2rem;
-  -webkit-font-smoothing: antialiased;
 }
 
-.container {
-  max-width: 660px;
-  margin: 0 auto;
-}
-
-h1 {
-  font-size: 2.2rem;
-  font-weight: 700;
-  color: #111;
-  margin-bottom: 0.3rem;
-  letter-spacing: -0.03em;
-}
-
-h2 {
-  font-size: 1.25rem;
-  font-weight: 600;
-  color: #111;
-  margin-top: 3rem;
-  margin-bottom: 0.6rem;
-  letter-spacing: -0.01em;
-}
-
-p {
-  margin-bottom: 1.2rem;
-}
-
-.subtitle {
-  color: #777;
-  font-size: 1.05rem;
-  margin-bottom: 2rem;
-  line-height: 1.6;
-}
-
-ul, ol {
-  margin-bottom: 1.2rem;
-  padding-left: 1.25rem;
-}
-
-li {
-  margin-bottom: 0.5rem;
-}
-
-li strong {
-  color: #111;
-}
-
-a {
-  color: #111;
-  text-decoration: underline;
-  text-decoration-color: #bbb;
-  text-underline-offset: 3px;
-  transition: text-decoration-color 0.15s;
-}
-
-a:hover {
-  text-decoration-color: #111;
-}
-
-hr {
-  border: none;
-  border-top: 1px solid #ddd;
-  margin: 3rem 0;
-}
-
-strong {
-  font-weight: 600;
-  color: #111;
-}
-
-code {
-  font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
-  font-size: 0.85em;
-  background: #f0f0f0;
-  padding: 0.2em 0.4em;
-  border-radius: 4px;
-}
-
-.footer {
-  margin-top: 4rem;
-  padding-top: 2rem;
-  border-top: 1px solid #ddd;
-  font-size: 0.85rem;
-  color: #aaa;
-}
-
-.footer a {
-  color: #aaa;
-  text-decoration-color: #ccc;
-}
-
-.footer a:hover {
-  color: #666;
-  text-decoration-color: #666;
-}
-
-@media (max-width: 480px) {
-  body {
-    font-size: 16px;
-    padding: 3rem 1.25rem;
-  }
-  h1 {
-    font-size: 1.75rem;
-  }
-}
+h1, h2, strong { color: #111; }
+h2 { margin-top: 2.5rem; }
+a { color: #111; text-decoration-color: #bbb; text-underline-offset: 3px; }
+hr { border: none; border-top: 1px solid #ddd; margin: 3rem 0; }
+.subtitle { color: #777; }
+.footer { margin-top: 4rem; border-top: 1px solid #ddd; padding-top: 2rem; font-size: 0.85rem; color: #aaa; }
