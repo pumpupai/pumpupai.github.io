@@ -25,6 +25,6 @@ Our background is in compiler, language runtime, and operating system design. We
 We are backed by some of the best investors in the world, like Acequia Capital, Aglae Ventures (LVMH), Backed, Barney Hussey-Yeo, Charlie Songhurst, Essence. VC, IA Ventures, Jordan Wan, Jude Gomila, Rosco Hill, and Tuesday.vc.
 
 <div class="footer">
-  PumpUp — San Francisco, CA<br>
+  Pump Up — San Francisco, CA<br>
   Contact: <a href="mailto:hello@pumpup.com">hello@pumpup.com</a>
 </div>
