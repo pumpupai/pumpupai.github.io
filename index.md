@@ -1,28 +1,30 @@
 ---
 layout: default
-title: PumpUp
+title: Pump Up
 ---
 
-# Pump Up
+## Pump Up
 
-<p class="subtitle">The platform where business stakeholders vibe-code enterprise tools.</p>
+## What we’re building
 
-# What we're building
-Operations teams move faster with custom internal tools that fit their workflow.
+Many companies have operations teams which need custom software.
 
-Until now, they've waited months for engineers, or struggled through no-code builders which break under any complexity.
+To date, they've had to decide between:
+- DIY a process across spreadsheets and email
+- Wait months for engineering to build custom internal tools which people click around
+- Buy dozens of SaaS point solutions which people click around
 
-Vibe coding can enable ops teams to build their own software, but existing approaches cannot produce high-quality, maintainable tools.
+Today's chat agents are built for one person exploring, not a team running shared work that has to happen the same way every time, check in with the right people, and leave a record.
 
-We are changing that.
+We're building something new which changes that. 
 
-# About us
+## About us
 
-We've built developer tools for non-traditional users for 15+ years. We created Datapane, which helped over 5000 companies, such as Peloton, Barclay's, JP Morgan, and Oscar Health, generate reports and dashboards using code.
+We’ve built developer tools for non-traditional users for 15+ years. We created Datapane, which helped over 5000 companies, such as Peloton, Barclay’s, JP Morgan, and Oscar Health, generate reports and dashboards using code.
 
-Our background is in compiler, language runtime, and operating system design. We use this knowledge to rethink the stack for code written without software engineers.
+Our background is in compiler, language runtime, and operating system design. 
 
-We are backed by some of the best investors in the world, like Acequia Capital, Aglae Ventures (LVMH), Backed, Barney Hussey-Yeo, Charlie Songhurst, Essence. VC, IA Ventures, Jordan Wan, Jude Gomila, Rosco Hill, and Tuesday.vc.
+We are backed by some of the best investors in the world, like Acequia Capital, Aglae Ventures (LVMH), Backed, Barney Hussey-Yeo, Charlie Songhurst, Essence.vc, IA Ventures, Jordan Wan, Jude Gomila, Rosco Hill, and Tuesday.vc.
 
 <div class="footer">
   Pump Up — San Francisco, CA<br>
